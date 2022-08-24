@@ -16,7 +16,7 @@ Para atingir esses objetivos, serão [executadas](par_ou_impar.ipynb) as 3 taref
 - [x] Mostrar que, considerando o jogo "clássico" de par ou ímpar, onde cada jogador coloca apenas uma mão, isto é, seleciona um número inteiro entre 0 e 5, a probabilidade de o resultado ser par ou ímpar é de 50% cada.
 
 ## Raciocínios inconsistentes
-Mostrar, através de visualizações e simulações, que os seguintes raciocínios, embora usados por várias pessoas durante a enquete e   aparentemente plausíveis, são equivocados:
+Mostrar, com o auxílio de visualizações, que os seguintes raciocínios, embora usados por várias pessoas durante a enquete e   aparentemente plausíveis, são equivocados:
 - [x] "Cada jogador escolhe um número, que pode ser par ou ímpar. Como par + par = par, ímpar + ímpar = par e par + ímpar = ímpar, há mais possibilidades onde o resultado final é par."
 
 - [x] "Após somar as mãos dos jogadores, há 6 resultados pares possíveis (0, 2, 4, 6, 8, 10) e apenas 5 ímpares (1, 3, 5, 7, 9). Logo, quem escolhe par tem mais chances de ganhar."
