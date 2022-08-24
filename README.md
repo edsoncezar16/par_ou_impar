@@ -10,10 +10,10 @@ Recentemente, uma
 
 Assim, este projeto tem por objetivo usar a minha experiência acadêmica, com forte ênfase em raciocínio analítico e domínio dos conceitos fundamentais da estatística, e minhas habilidades de programação com a linguagem Python para contribuir com a melhoria da qualidade do raciocínio probabilístico na comunidade de Ciência de Dados, ou mesmo do público geral.
 
-Para atingir esses objetivos, serão executadas as 3 tarefas a seguir, cada uma com seu respectivo notebook:
+Para atingir esses objetivos, serão [executadas](par_ou_impar.ipynb) as 3 tarefas a seguir:
 
 ## Probabilidades iguais
-- [ ] Mostrar que, considerando o jogo "clássico" de par ou ímpar, onde cada jogador coloca apenas uma mão, isto é, seleciona um número inteiro entre 0 e 5, a probabilidade de o resultado ser par ou ímpar é de 50% cada.
+- [x] Mostrar que, considerando o jogo "clássico" de par ou ímpar, onde cada jogador coloca apenas uma mão, isto é, seleciona um número inteiro entre 0 e 5, a probabilidade de o resultado ser par ou ímpar é de 50% cada.
 
 ## Raciocínios inconsistentes
 Mostrar, através de visualizações e simulações, que os seguintes raciocínios, embora usados por várias pessoas durante a enquete e   aparentemente plausíveis, são equivocados:
