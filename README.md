@@ -19,4 +19,4 @@ Para atingir esses objetivos, serão [executadas](par_ou_impar.ipynb) as 3 taref
 Mostrar, através de visualizações e simulações, que os seguintes raciocínios, embora usados por várias pessoas durante a enquete e   aparentemente plausíveis, são equivocados:
 - [x] "Cada jogador escolhe um número, que pode ser par ou ímpar. Como par + par = par, ímpar + ímpar = par e par + ímpar = ímpar, há mais possibilidades onde o resultado final é par."
 
-- [ ] "Após somar as mãos dos jogadores, há 6 resultados pares possíveis (0, 2, 4, 6, 8, 10) e apenas 5 ímpares (1, 3, 5, 7, 9). Logo, quem escolhe par tem mais chances de ganhar."
+- [x] "Após somar as mãos dos jogadores, há 6 resultados pares possíveis (0, 2, 4, 6, 8, 10) e apenas 5 ímpares (1, 3, 5, 7, 9). Logo, quem escolhe par tem mais chances de ganhar."
